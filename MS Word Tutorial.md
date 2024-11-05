@@ -868,6 +868,78 @@ Word also allows you to customize WordArt. You can change WordArt shapes, font f
 
   ![image](https://github.com/user-attachments/assets/d78940da-53e0-420b-944c-03bb449474a7)
 
+# Microsoft Word Shortcut Keys
+
+Here is a list of common shortcut keys for Microsoft Word to help you work more efficiently.
+
+| Shortcut Key               | Description                                      |
+|----------------------------|--------------------------------------------------|
+| **Ctrl + N**               | Create a new document                            |
+| **Ctrl + O**               | Open an existing document                        |
+| **Ctrl + S**               | Save the current document                        |
+| **F12**                    | Save As                                          |
+| **Ctrl + P**               | Open the Print dialog                            |
+| **Ctrl + C**               | Copy selected text or object                     |
+| **Ctrl + X**               | Cut selected text or object                      |
+| **Ctrl + V**               | Paste copied or cut text or object               |
+| **Ctrl + Z**               | Undo the last action                             |
+| **Ctrl + Y**               | Redo the last undone action                      |
+| **Ctrl + A**               | Select all text in the document                  |
+| **Ctrl + F**               | Open the Find dialog                             |
+| **Ctrl + H**               | Open the Find and Replace dialog                 |
+| **Ctrl + B**               | Bold selected text                               |
+| **Ctrl + I**               | Italicize selected text                          |
+| **Ctrl + U**               | Underline selected text                          |
+| **Ctrl + Shift + W**       | Underline words only                             |
+| **Ctrl + Shift + D**       | Double underline selected text                   |
+| **Ctrl + E**               | Center align text                                |
+| **Ctrl + L**               | Left align text                                  |
+| **Ctrl + R**               | Right align text                                 |
+| **Ctrl + J**               | Justify align text                               |
+| **Ctrl + M**               | Increase paragraph indent                        |
+| **Ctrl + Shift + M**       | Decrease paragraph indent                        |
+| **Ctrl + Shift + >**       | Increase font size                               |
+| **Ctrl + Shift + <**       | Decrease font size                               |
+| **Ctrl + D**               | Open the Font dialog box                         |
+| **Ctrl + Shift + A**       | Format text in all caps                          |
+| **Ctrl + 1**               | Single-line spacing                              |
+| **Ctrl + 2**               | Double-line spacing                              |
+| **Ctrl + 5**               | 1.5-line spacing                                 |
+| **Alt + Ctrl + 1**         | Apply Heading 1 style                            |
+| **Alt + Ctrl + 2**         | Apply Heading 2 style                            |
+| **Alt + Ctrl + 3**         | Apply Heading 3 style                            |
+| **Ctrl + Shift + L**       | Apply the List Bullet style                      |
+| **Ctrl + Shift + C**       | Copy formatting from selected text               |
+| **Ctrl + Shift + V**       | Paste formatting                                 |
+| **Ctrl + Enter**           | Insert a page break                              |
+| **Ctrl + Home**            | Move to the beginning of the document            |
+| **Ctrl + End**             | Move to the end of the document                  |
+| **Ctrl + Left Arrow**      | Move one word to the left                        |
+| **Ctrl + Right Arrow**     | Move one word to the right                       |
+| **Ctrl + Up Arrow**        | Move up one paragraph                            |
+| **Ctrl + Down Arrow**      | Move down one paragraph                          |
+| **Shift + F3**             | Change case of selected text                     |
+| **Alt + Shift + D**        | Insert current date                              |
+| **Alt + Shift + T**        | Insert current time                              |
+| **Ctrl + Alt + 1**         | Apply Heading 1                                  |
+| **Ctrl + Alt + 2**         | Apply Heading 2                                  |
+| **Ctrl + Alt + 3**         | Apply Heading 3                                  |
+| **F7**                     | Check spelling and grammar                       |
+| **Shift + F7**             | Open the thesaurus                               |
+| **Alt + Ctrl + F**         | Insert a footnote                                |
+| **Alt + Ctrl + D**         | Insert an endnote                                |
+| **Ctrl + K**               | Insert a hyperlink                               |
+| **Alt + Shift + P**        | Insert page number                               |
+| **Alt + Ctrl + P**         | Switch to Print Layout view                      |
+| **Alt + Ctrl + O**         | Switch to Outline view                           |
+| **Alt + Ctrl + N**         | Switch to Draft view                             |
+| **Ctrl + F2**              | Print Preview                                    |
+| **Alt + F4**               | Close Microsoft Word                             |
+| **F1**                     | Open Help                                        |
+
+This table provides a quick reference for common Microsoft Word shortcuts to enhance productivity.
+
+
 
 
 

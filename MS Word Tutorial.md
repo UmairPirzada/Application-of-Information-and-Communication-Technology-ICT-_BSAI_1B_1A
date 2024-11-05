@@ -77,7 +77,8 @@ Our tutorial includes guidance on many features of Microsoft Word:
    - **Macros** to automate repetitive tasks
    - **Watermarks, page colors, and borders**
   
-$ Office Button
+# Office Button
+
 Microsoft Office or MS Office Suite is an all-in-one package of several programs that help us perform most office-related tasks, such as creating documents, spreadsheets, presentations, databases, etc. Some of the essential software programs of MS Office Suite include MS Word, MS Excel, PowerPoint, etc. To make all these software user-friendly and effective, Microsoft tries to make the user interface similar for the common options, allowing users to find commands and tools with ease. Office button is one such common option in all the software of MS Office Suite 2007.
 
 In this article, we are discussing the Microsoft Office button (also called the Office button). The article also concludes the function of the office button along with the options listed under it.

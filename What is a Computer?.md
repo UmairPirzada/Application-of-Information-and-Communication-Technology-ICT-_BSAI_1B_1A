@@ -17,22 +17,28 @@
 ## What is a Computer?
 
 A **computer** is an electronic device that manipulates information or data. It has the ability to store, retrieve, and process data. You can use a computer to type documents, send emails, play games, browse the Web, and edit videos, among many other tasks.
+
 ![image](https://github.com/user-attachments/assets/520ddee7-6c31-4c1e-b75b-f576cfc2e3e2)
 
 ### Types of Computers
 - **Personal Computers (PCs)**: Designed for individual use, including desktops and laptops.
+  
   ![image](https://github.com/user-attachments/assets/34bae5b1-878a-4a44-b6c0-11b027656f42)
 
 - **Workstations**: High-performance machines used for specialized tasks.
+  
   ![image](https://github.com/user-attachments/assets/8d1a953e-0800-4fe5-a74f-2f9e40d761c1)
 
 - **Servers**: Powerful systems that provide resources and services to other computers over a network.
+  
   ![image](https://github.com/user-attachments/assets/08ed7878-4aa1-431a-b5ce-cc59aedebd4d)
 
 - **Mainframes**: Large and powerful systems used primarily by large organizations for bulk data processing.
+  
   ![image](https://github.com/user-attachments/assets/b93a3287-78e3-423d-9be3-1ff1069d8c15)
 
 - **Supercomputers**: Extremely fast computers used for complex simulations and calculations.
+
 ![image](https://github.com/user-attachments/assets/a95fdb23-ed43-41d7-b9e1-7384b42e5af4)
 
 ---

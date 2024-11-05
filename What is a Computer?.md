@@ -23,7 +23,8 @@ A **computer** is an electronic device that manipulates information or data. It 
 ### Types of Computers
 - **Personal Computers (PCs)**: Designed for individual use, including desktops and laptops.
   
-  ![image](https://github.com/user-attachments/assets/34bae5b1-878a-4a44-b6c0-11b027656f42)
+  ![Uploading image.png…]()
+
 
 - **Workstations**: High-performance machines used for specialized tasks.
   

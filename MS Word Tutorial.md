@@ -940,6 +940,60 @@ Here is a list of common shortcut keys for Microsoft Word to help you work more 
 This table provides a quick reference for common Microsoft Word shortcuts to enhance productivity.
 
 
+# Microsoft Word Shortcut Keys for Mac Users
+
+Here is a list of common shortcut keys specifically for Microsoft Word on Mac to help you work more efficiently.
+
+| Action                                      | Mac Shortcut                 |
+|---------------------------------------------|------------------------------|
+| **Create a new document**                   | Command + N                  |
+| **Open an existing document**               | Command + O                  |
+| **Save the document**                       | Command + S                  |
+| **Save As**                                 | Command + Shift + S          |
+| **Print the document**                      | Command + P                  |
+| **Copy selected text or object**            | Command + C                  |
+| **Cut selected text or object**             | Command + X                  |
+| **Paste copied or cut text or object**      | Command + V                  |
+| **Undo the last action**                    | Command + Z                  |
+| **Redo the last undone action**             | Command + Shift + Z          |
+| **Select all text**                         | Command + A                  |
+| **Find text**                               | Command + F                  |
+| **Replace text**                            | Command + Shift + H          |
+| **Bold selected text**                      | Command + B                  |
+| **Italicize selected text**                 | Command + I                  |
+| **Underline selected text**                 | Command + U                  |
+| **Single-line spacing**                     | Command + 1                  |
+| **Double-line spacing**                     | Command + 2                  |
+| **Increase font size**                      | Command + Shift + >          |
+| **Decrease font size**                      | Command + Shift + <          |
+| **Center align text**                       | Command + E                  |
+| **Left align text**                         | Command + L                  |
+| **Right align text**                        | Command + R                  |
+| **Justify align text**                      | Command + J                  |
+| **Open Font dialog box**                    | Command + D                  |
+| **Apply Heading 1**                         | Command + Option + 1         |
+| **Apply Heading 2**                         | Command + Option + 2         |
+| **Apply Heading 3**                         | Command + Option + 3         |
+| **Insert a page break**                     | Command + Enter              |
+| **Move to beginning of document**           | Command + Home               |
+| **Move to end of document**                 | Command + End                |
+| **Insert current date**                     | Command + Shift + D          |
+| **Insert current time**                     | Command + Shift + T          |
+| **Insert page number**                      | Command + Shift + P          |
+| **Check spelling and grammar**              | Command + Shift + ;          |
+| **Open thesaurus**                          | Command + Option + R         |
+| **Insert hyperlink**                        | Command + K                  |
+| **Switch to Print Layout view**             | Command + Option + P         |
+| **Switch to Outline view**                  | Command + Option + O         |
+| **Switch to Draft view**                    | Command + Option + N         |
+| **Print Preview**                           | Command + P                  |
+| **Close Microsoft Word**                    | Command + Q                  |
+| **Open Help**                               | Command + Shift + ?          |
+
+This table provides a quick reference for Microsoft Word shortcuts on Mac, making it easier to navigate and format documents.
+
+
+
 
 
 

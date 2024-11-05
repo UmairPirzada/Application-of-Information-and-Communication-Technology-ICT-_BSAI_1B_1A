@@ -23,12 +23,13 @@ A **computer** is an electronic device that manipulates information or data. It 
 ### Types of Computers
 - **Personal Computers (PCs)**: Designed for individual use, including desktops and laptops.
   
-  ![image](https://github.com/user-attachments/assets/b3758009-d3e0-4378-a1a5-7fc18b1c7332)
+ ![image](https://github.com/user-attachments/assets/cea23014-d51f-4884-abb5-f6ba39194a44)
+
 
 
 - **Workstations**: High-performance machines used for specialized tasks.
   
-  ![Uploading image.png…]()
+ ![image](https://github.com/user-attachments/assets/b3758009-d3e0-4378-a1a5-7fc18b1c7332)
 
 
 - **Servers**: Powerful systems that provide resources and services to other computers over a network.
@@ -37,11 +38,13 @@ A **computer** is an electronic device that manipulates information or data. It 
 
 - **Mainframes**: Large and powerful systems used primarily by large organizations for bulk data processing.
   
-  ![image](https://github.com/user-attachments/assets/b93a3287-78e3-423d-9be3-1ff1069d8c15)
+ ![image](https://github.com/user-attachments/assets/a7f9b284-24fa-4572-91fc-3f0bfdb0f528)
+
 
 - **Supercomputers**: Extremely fast computers used for complex simulations and calculations.
 
-![image](https://github.com/user-attachments/assets/a95fdb23-ed43-41d7-b9e1-7384b42e5af4)
+![image](https://github.com/user-attachments/assets/815d792f-5f5e-4fe0-9281-db9af6c915db)
+
 
 ---
 

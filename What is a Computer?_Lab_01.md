@@ -234,7 +234,7 @@ This calculating machine was also developed by Charles Babbage in 1830. It was a
 ![image](https://github.com/user-attachments/assets/3f1cdbc8-8af9-4292-a909-03eaa4f88a2c)
 
 ### Tabulating Machine
-It was invented in 1890, by Herman Hollerith, an American statistician. It was a mechanical tabulator based on punch cards. It could tabulate statistics and record or sort data or information. This machine was used in the 1890 U.S. Census. Hollerith also started the Hollerith?s Tabulating Machine Company which later became International Business Machine (IBM) in 1924.
+It was invented in 1890, by Herman Hollerith, an American statistician. It was a mechanical tabulator based on punch cards. It could tabulate statistics and record or sort data or information. This machine was used in the 1890 U.S. Census. Hollerith also started the Hollerith's Tabulating Machine Company which later became International Business Machine (IBM) in 1924.
 
 ![image](https://github.com/user-attachments/assets/89180e41-bf4c-4fe6-bbca-a0d50e536f54)
 

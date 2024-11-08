@@ -1,4 +1,4 @@
-_01# Understanding Computers: Systems, Components, and Evolution
+# Understanding Computers: Systems, Components, and Evolution
 
 ## Table of Contents
 1. [What is a Computer?](#what-is-a-computer)

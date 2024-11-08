@@ -286,12 +286,17 @@ In this generation, magnetic cores were used as the primary memory and magnetic 
 **Some of the popular second generation computers are;**
 
 **IBM 1620**
+
 **IBM 7094**
+
 **CDC 1604**
+
 **CDC 3600**
+
 **UNIVAC 1108**
+
    - **Transistors**: Replaced vacuum tubes, making computers smaller, faster, and more reliable.
-   - 
+
 ![image](https://github.com/user-attachments/assets/17d1ad96-9b1a-4aa2-bc15-2d13110f9c19)
 
      
@@ -307,10 +312,15 @@ The third generation computers used integrated circuits (ICs) instead of transis
 **Some of the popular third generation computers are;**
 
 **IBM-360 series**
+
 **Honeywell-6000 series**
+
 **PDP(Personal Data Processor)**
+
 **IBM-370/168**
+
 **TDC-316**
+
    - **Integrated Circuits (ICs)**: Combined multiple transistors into a single chip, further reducing size and cost.
 
   ![image](https://github.com/user-attachments/assets/053819c4-0e50-440a-8f1b-a563b27521f4)
@@ -327,9 +337,13 @@ The fourth generation (1971-1980) computers used very large scale integrated (VL
 **Some of the popular fourth generation computers are;**
 
 **DEC 10**
+
 **STAR 1000**
+
 **PDP 11**
+
 **CRAY-1(Super Computer)**
+
 **CRAY-X-MP(Super Computer)**
 
    - **Microprocessors**: Entire CPU on a single chip, leading to personal computers.
@@ -349,10 +363,15 @@ In fifth generation (1980-till date) computers, the VLSI technology was replaced
 **Some of the popular fifth generation computers are;**
 
 **Desktop**
+
 **Laptop**
+
 **NoteBook**
+
 **UltraBook**
+
 **ChromeBook**
+
    - **Artificial Intelligence**: Focus on developing machines that can think and learn.
 
   ![image](https://github.com/user-attachments/assets/19c3d427-5fd5-4b17-8308-210214fcb3f5)
@@ -368,9 +387,13 @@ In fifth generation (1980-till date) computers, the VLSI technology was replaced
 ### Computers are divided into different types based on different criteria. Based on the size, a computer can be divided into five types:
 
 **1. Micro Computer**
+
 **2. Mini Computer**
+
 **3. Mainframe Computer**
+
 **4. Super Computer**
+
 **5. Workstations**
 
    ### 1. Micro Computer:

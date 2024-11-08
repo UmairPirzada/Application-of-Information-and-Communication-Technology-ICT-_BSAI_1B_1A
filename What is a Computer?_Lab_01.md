@@ -27,11 +27,17 @@ It is believed that the Analytical Engine was the first computer which was inven
 ![image](https://github.com/user-attachments/assets/520ddee7-6c31-4c1e-b75b-f576cfc2e3e2)
 
 ### The basic parts without which a computer cannot work are as follows:
+
 **Processor:** It executes instructions from software and hardware.
+
 **Memory:** It is the primary memory for data transfer between the CPU and storage.
+
 **Motherboard:** It is the part that connects all other parts or components of a computer.
+
 **Storage Device:** It permanently stores the data, e.g., hard drive.
+
 **Input Device:** It allows you to communicate with the computer or to input data, e.g., a keyboard.
+
 **Output Device:** It enables you to see the output, e.g., monitor.
 
 ### Types of Computers
